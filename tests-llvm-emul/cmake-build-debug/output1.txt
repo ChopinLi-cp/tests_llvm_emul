@@ -1,0 +1,34 @@
+./x64_gzip_1_10_gcc75_O0_3.6.2.ll is the IR file
+
+getbits is the function name
+
+the corresponding function in another IR file is getbits
+the corresponding similarity is 0.837209
+the first similarity string is 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4294967295;4294967295;0;8;8;0;8;0;0;0;0;0;0;0;0;0;4294967295;4294967295;0;8;8;0;8;4294906399;4294906399;0;0;0;
+the second similarity string is 0;0;0;0;0;0;0;0;0;0;0;0;0;0;4294967295;0;8;0;8;0;0;0;0;0;0;0;0;4294967295;0;8;0;8;4294906399;0;0;0;
+================
+send_all_trees is the function name
+
+the corresponding function in another IR file is send_all_trees
+the corresponding similarity is 0.72093
+the first similarity string is 0;0;0;60656;0;5;5;5;60656;65008;5;10;10;10;65008;65008;10;14;14;14;65008;65008;0;65008;0;52411688;65008;52411688;52411688;14;0;14;1;0;
+the second similarity string is 0;0;0;60656;0;5;5;5;60656;65008;5;10;10;10;65008;65008;10;14;14;14;65008;65008;0;65008;0;42580584;65008;42580584;42580584;14;0;14;1;1;1;0;0;1;4;0;
+================
+=====================================================
+./x64_gzip_1_10_gcc_O2.ll is the IR file
+
+getbits is the function name
+
+the corresponding function in another IR file is getbits
+the corresponding similarity is 0.837209
+the first similarity string is 0;0;0;0;0;0;0;0;0;0;0;0;0;0;4294967295;0;8;0;8;0;0;0;0;0;0;0;0;4294967295;0;8;0;8;4294906399;0;0;0;
+the second similarity string is 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4294967295;4294967295;0;8;8;0;8;0;0;0;0;0;0;0;0;0;4294967295;4294967295;0;8;8;0;8;4294906399;4294906399;0;0;0;
+================
+send_all_trees is the function name
+
+the corresponding function in another IR file is send_all_trees
+the corresponding similarity is 0.72093
+the first similarity string is 0;0;0;60656;0;5;5;5;60656;65008;5;10;10;10;65008;65008;10;14;14;14;65008;65008;0;65008;0;42580584;65008;42580584;42580584;14;0;14;1;1;1;0;0;1;4;0;
+the second similarity string is 0;0;0;60656;0;5;5;5;60656;65008;5;10;10;10;65008;65008;10;14;14;14;65008;65008;0;65008;0;52411688;65008;52411688;52411688;14;0;14;1;0;
+================
+=====================================================
